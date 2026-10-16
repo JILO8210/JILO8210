@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**JILO8210/JILO8210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Djaloul Taibi
 
-Here are some ideas to get you started:
+### 🎓 Computer Science Student | Algeria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning programming and software development,
+with a focus on building useful, practical applications.
+
+## 🚀 About Me
+
+- 🎓 Studying Computer Science (LMD)
+- 💻 Practicing programming and algorithms
+- 📚 Improving my technical skills every day
+- 🛠️ Building projects through hands-on practice
+
+## 🧰 Technologies
+
+- HTML & CSS — Fundamentals
+- Git & GitHub — Learning and practice
+- Programming — Building my foundations
+
+## 📂 Featured Projects
+
+### 📘 University Exercises
+A collection of programming exercises and computer science notes.
+
+### 🏪 Store Management System
+A project in development for managing products, inventory, and sales.
+
+## 🎯 My Goals
+
+- Strengthen my programming skills
+- Build useful software projects
+- Collaborate with other developers
+- Prepare for future career opportunities
+
+---
+
+*Learn continuously. Build consistently. Improve every day.*
